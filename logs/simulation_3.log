@@ -1,0 +1,2 @@
+6.69956e-05 pos: 1/1, global boundaries: rect:0/0->2499/2499, boundaries: rect:1250/1250->2499/2499 and overlapped area: rect:1249/1249->2499/2499 with size: 1251/1251
+0.000322104 sections 0: rect:1250/1250->1874/1874 - 1: rect:1875/1250->2499/1874 - 2:rect:1250/1875->1874/2499 - 3: rect:1875/1875->2499/2499

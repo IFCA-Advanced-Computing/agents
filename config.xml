@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<config>  
+	<!-- Global simulation parameters -->
+	<output resultsFile="./data/vacas.h5" logsDir="./logs"/>
+	<numSteps value="500"/>
+	<size value="368"/>
+	<numAgents value="50"/>
+</config>
+

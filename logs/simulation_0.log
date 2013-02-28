@@ -1,0 +1,1006 @@
+3.29018e-05 pos: 0/0, global boundaries: rect:0/0->367/367, boundaries: rect:0/0->367/367 and overlapped area: rect:0/0->367/367 with size: 368/368
+0.000183821 sections 0: rect:0/0->183/183 - 1: rect:184/0->367/183 - 2:rect:0/184->183/367 - 3: rect:184/184->367/367
+finished init at: 0.125955
+0.125997 executing 500 steps...
+0.126064 executing step: 0
+0.235081 - world at pos: 0/0 finished step: 0
+0.235124 executing step: 1
+0.248888 - world at pos: 0/0 finished step: 1
+0.248934 executing step: 2
+0.258564 - world at pos: 0/0 finished step: 2
+0.258603 executing step: 3
+0.27186 - world at pos: 0/0 finished step: 3
+0.271901 executing step: 4
+0.281392 - world at pos: 0/0 finished step: 4
+0.281431 executing step: 5
+0.290942 - world at pos: 0/0 finished step: 5
+0.290981 executing step: 6
+0.304127 - world at pos: 0/0 finished step: 6
+0.304168 executing step: 7
+0.314069 - world at pos: 0/0 finished step: 7
+0.314108 executing step: 8
+0.323709 - world at pos: 0/0 finished step: 8
+0.323749 executing step: 9
+0.336726 - world at pos: 0/0 finished step: 9
+0.336766 executing step: 10
+0.346888 - world at pos: 0/0 finished step: 10
+0.346928 executing step: 11
+0.359797 - world at pos: 0/0 finished step: 11
+0.359837 executing step: 12
+0.369362 - world at pos: 0/0 finished step: 12
+0.369401 executing step: 13
+0.378974 - world at pos: 0/0 finished step: 13
+0.379013 executing step: 14
+0.392028 - world at pos: 0/0 finished step: 14
+0.392069 executing step: 15
+0.401696 - world at pos: 0/0 finished step: 15
+0.401737 executing step: 16
+0.411187 - world at pos: 0/0 finished step: 16
+0.411226 executing step: 17
+0.424124 - world at pos: 0/0 finished step: 17
+0.424165 executing step: 18
+0.433652 - world at pos: 0/0 finished step: 18
+0.433692 executing step: 19
+0.443126 - world at pos: 0/0 finished step: 19
+0.443165 executing step: 20
+0.456309 - world at pos: 0/0 finished step: 20
+0.456349 executing step: 21
+0.4662 - world at pos: 0/0 finished step: 21
+0.46624 executing step: 22
+0.475644 - world at pos: 0/0 finished step: 22
+0.475684 executing step: 23
+0.488658 - world at pos: 0/0 finished step: 23
+0.488699 executing step: 24
+0.498187 - world at pos: 0/0 finished step: 24
+0.498226 executing step: 25
+0.51056 - world at pos: 0/0 finished step: 25
+0.510606 executing step: 26
+0.520334 - world at pos: 0/0 finished step: 26
+0.520373 executing step: 27
+0.529853 - world at pos: 0/0 finished step: 27
+0.529896 executing step: 28
+0.542635 - world at pos: 0/0 finished step: 28
+0.54268 executing step: 29
+0.552471 - world at pos: 0/0 finished step: 29
+0.55251 executing step: 30
+0.562933 - world at pos: 0/0 finished step: 30
+0.562972 executing step: 31
+0.576071 - world at pos: 0/0 finished step: 31
+0.576113 executing step: 32
+0.585714 - world at pos: 0/0 finished step: 32
+0.585753 executing step: 33
+0.59521 - world at pos: 0/0 finished step: 33
+0.595249 executing step: 34
+0.60808 - world at pos: 0/0 finished step: 34
+0.608121 executing step: 35
+0.61752 - world at pos: 0/0 finished step: 35
+0.617559 executing step: 36
+0.626993 - world at pos: 0/0 finished step: 36
+0.627032 executing step: 37
+0.6399 - world at pos: 0/0 finished step: 37
+0.63994 executing step: 38
+0.649429 - world at pos: 0/0 finished step: 38
+0.649468 executing step: 39
+0.658991 - world at pos: 0/0 finished step: 39
+0.659031 executing step: 40
+0.671883 - world at pos: 0/0 finished step: 40
+0.671924 executing step: 41
+0.681909 - world at pos: 0/0 finished step: 41
+0.681949 executing step: 42
+0.694405 - world at pos: 0/0 finished step: 42
+0.694453 executing step: 43
+0.704272 - world at pos: 0/0 finished step: 43
+0.70431 executing step: 44
+0.713891 - world at pos: 0/0 finished step: 44
+0.713931 executing step: 45
+0.726472 - world at pos: 0/0 finished step: 45
+0.726519 executing step: 46
+0.736044 - world at pos: 0/0 finished step: 46
+0.736085 executing step: 47
+0.745505 - world at pos: 0/0 finished step: 47
+0.745545 executing step: 48
+0.758492 - world at pos: 0/0 finished step: 48
+0.758538 executing step: 49
+0.768064 - world at pos: 0/0 finished step: 49
+0.7682 executing step: 50
+0.778043 - world at pos: 0/0 finished step: 50
+0.778094 executing step: 51
+0.791044 - world at pos: 0/0 finished step: 51
+0.791086 executing step: 52
+0.800553 - world at pos: 0/0 finished step: 52
+0.800593 executing step: 53
+0.809992 - world at pos: 0/0 finished step: 53
+0.810031 executing step: 54
+0.82321 - world at pos: 0/0 finished step: 54
+0.82325 executing step: 55
+0.832764 - world at pos: 0/0 finished step: 55
+0.832803 executing step: 56
+0.842332 - world at pos: 0/0 finished step: 56
+0.84237 executing step: 57
+0.855191 - world at pos: 0/0 finished step: 57
+0.855233 executing step: 58
+0.864783 - world at pos: 0/0 finished step: 58
+0.864822 executing step: 59
+0.874259 - world at pos: 0/0 finished step: 59
+0.874299 executing step: 60
+0.887105 - world at pos: 0/0 finished step: 60
+0.887146 executing step: 61
+0.896722 - world at pos: 0/0 finished step: 61
+0.896762 executing step: 62
+0.909512 - world at pos: 0/0 finished step: 62
+0.90956 executing step: 63
+0.91949 - world at pos: 0/0 finished step: 63
+0.919567 executing step: 64
+0.929054 - world at pos: 0/0 finished step: 64
+0.929094 executing step: 65
+0.941825 - world at pos: 0/0 finished step: 65
+0.941873 executing step: 66
+0.951716 - world at pos: 0/0 finished step: 66
+0.951758 executing step: 67
+0.961475 - world at pos: 0/0 finished step: 67
+0.961516 executing step: 68
+0.97449 - world at pos: 0/0 finished step: 68
+0.974532 executing step: 69
+0.984186 - world at pos: 0/0 finished step: 69
+0.984228 executing step: 70
+0.993715 - world at pos: 0/0 finished step: 70
+0.993755 executing step: 71
+1.00726 - world at pos: 0/0 finished step: 71
+1.0073 executing step: 72
+1.01702 - world at pos: 0/0 finished step: 72
+1.01706 executing step: 73
+1.02664 - world at pos: 0/0 finished step: 73
+1.02668 executing step: 74
+1.03987 - world at pos: 0/0 finished step: 74
+1.03991 executing step: 75
+1.0496 - world at pos: 0/0 finished step: 75
+1.04964 executing step: 76
+1.06241 - world at pos: 0/0 finished step: 76
+1.06245 executing step: 77
+1.07251 - world at pos: 0/0 finished step: 77
+1.07255 executing step: 78
+1.08224 - world at pos: 0/0 finished step: 78
+1.08228 executing step: 79
+1.09509 - world at pos: 0/0 finished step: 79
+1.09513 executing step: 80
+1.10485 - world at pos: 0/0 finished step: 80
+1.10488 executing step: 81
+1.11459 - world at pos: 0/0 finished step: 81
+1.11462 executing step: 82
+1.12799 - world at pos: 0/0 finished step: 82
+1.12803 executing step: 83
+1.13768 - world at pos: 0/0 finished step: 83
+1.13771 executing step: 84
+1.34341 - world at pos: 0/0 finished step: 84
+1.34345 executing step: 85
+1.35684 - world at pos: 0/0 finished step: 85
+1.35688 executing step: 86
+1.36701 - world at pos: 0/0 finished step: 86
+1.36705 executing step: 87
+1.38084 - world at pos: 0/0 finished step: 87
+1.38088 executing step: 88
+1.39105 - world at pos: 0/0 finished step: 88
+1.39109 executing step: 89
+1.40059 - world at pos: 0/0 finished step: 89
+1.40072 executing step: 90
+1.41425 - world at pos: 0/0 finished step: 90
+1.41429 executing step: 91
+1.42446 - world at pos: 0/0 finished step: 91
+1.4245 executing step: 92
+1.43756 - world at pos: 0/0 finished step: 92
+1.43761 executing step: 93
+1.44825 - world at pos: 0/0 finished step: 93
+1.44829 executing step: 94
+1.4608 - world at pos: 0/0 finished step: 94
+1.46084 executing step: 95
+1.47448 - world at pos: 0/0 finished step: 95
+1.47452 executing step: 96
+1.48453 - world at pos: 0/0 finished step: 96
+1.48457 executing step: 97
+1.49801 - world at pos: 0/0 finished step: 97
+1.49806 executing step: 98
+1.50825 - world at pos: 0/0 finished step: 98
+1.50829 executing step: 99
+1.51828 - world at pos: 0/0 finished step: 99
+1.51832 executing step: 100
+1.53124 - world at pos: 0/0 finished step: 100
+1.53128 executing step: 101
+1.54099 - world at pos: 0/0 finished step: 101
+1.54103 executing step: 102
+1.55077 - world at pos: 0/0 finished step: 102
+1.55081 executing step: 103
+1.56424 - world at pos: 0/0 finished step: 103
+1.56428 executing step: 104
+1.57424 - world at pos: 0/0 finished step: 104
+1.57428 executing step: 105
+1.58405 - world at pos: 0/0 finished step: 105
+1.58409 executing step: 106
+1.59702 - world at pos: 0/0 finished step: 106
+1.59706 executing step: 107
+1.60673 - world at pos: 0/0 finished step: 107
+1.60676 executing step: 108
+1.61948 - world at pos: 0/0 finished step: 108
+1.61955 executing step: 109
+1.62944 - world at pos: 0/0 finished step: 109
+1.62948 executing step: 110
+1.63914 - world at pos: 0/0 finished step: 110
+1.63917 executing step: 111
+1.65222 - world at pos: 0/0 finished step: 111
+1.65226 executing step: 112
+1.66237 - world at pos: 0/0 finished step: 112
+1.66241 executing step: 113
+1.67206 - world at pos: 0/0 finished step: 113
+1.67209 executing step: 114
+1.68559 - world at pos: 0/0 finished step: 114
+1.68563 executing step: 115
+1.69526 - world at pos: 0/0 finished step: 115
+1.6953 executing step: 116
+1.70494 - world at pos: 0/0 finished step: 116
+1.70497 executing step: 117
+1.71806 - world at pos: 0/0 finished step: 117
+1.7181 executing step: 118
+1.72785 - world at pos: 0/0 finished step: 118
+1.72788 executing step: 119
+1.7376 - world at pos: 0/0 finished step: 119
+1.73763 executing step: 120
+1.75062 - world at pos: 0/0 finished step: 120
+1.75066 executing step: 121
+1.7606 - world at pos: 0/0 finished step: 121
+1.76063 executing step: 122
+1.77403 - world at pos: 0/0 finished step: 122
+1.77408 executing step: 123
+1.78474 - world at pos: 0/0 finished step: 123
+1.78478 executing step: 124
+1.79487 - world at pos: 0/0 finished step: 124
+1.7949 executing step: 125
+1.80863 - world at pos: 0/0 finished step: 125
+1.80867 executing step: 126
+1.81851 - world at pos: 0/0 finished step: 126
+1.81855 executing step: 127
+1.8282 - world at pos: 0/0 finished step: 127
+1.82824 executing step: 128
+1.84125 - world at pos: 0/0 finished step: 128
+1.84129 executing step: 129
+1.85113 - world at pos: 0/0 finished step: 129
+1.85117 executing step: 130
+1.86384 - world at pos: 0/0 finished step: 130
+1.86389 executing step: 131
+1.87382 - world at pos: 0/0 finished step: 131
+1.87386 executing step: 132
+1.88488 - world at pos: 0/0 finished step: 132
+1.88492 executing step: 133
+1.89826 - world at pos: 0/0 finished step: 133
+1.8983 executing step: 134
+1.90839 - world at pos: 0/0 finished step: 134
+1.90843 executing step: 135
+1.91847 - world at pos: 0/0 finished step: 135
+1.91851 executing step: 136
+1.93217 - world at pos: 0/0 finished step: 136
+1.93221 executing step: 137
+1.94224 - world at pos: 0/0 finished step: 137
+1.94227 executing step: 138
+1.95543 - world at pos: 0/0 finished step: 138
+1.95548 executing step: 139
+1.96588 - world at pos: 0/0 finished step: 139
+1.96592 executing step: 140
+1.97614 - world at pos: 0/0 finished step: 140
+1.97618 executing step: 141
+1.98983 - world at pos: 0/0 finished step: 141
+1.98987 executing step: 142
+1.99986 - world at pos: 0/0 finished step: 142
+1.9999 executing step: 143
+2.01058 - world at pos: 0/0 finished step: 143
+2.01062 executing step: 144
+2.02383 - world at pos: 0/0 finished step: 144
+2.02387 executing step: 145
+2.03387 - world at pos: 0/0 finished step: 145
+2.03391 executing step: 146
+2.04741 - world at pos: 0/0 finished step: 146
+2.04746 executing step: 147
+2.0578 - world at pos: 0/0 finished step: 147
+2.05784 executing step: 148
+2.06793 - world at pos: 0/0 finished step: 148
+2.06797 executing step: 149
+2.088 - world at pos: 0/0 finished step: 149
+2.08804 executing step: 150
+2.09835 - world at pos: 0/0 finished step: 150
+2.09839 executing step: 151
+2.11204 - world at pos: 0/0 finished step: 151
+2.11208 executing step: 152
+2.1227 - world at pos: 0/0 finished step: 152
+2.12274 executing step: 153
+2.13271 - world at pos: 0/0 finished step: 153
+2.13275 executing step: 154
+2.14626 - world at pos: 0/0 finished step: 154
+2.1463 executing step: 155
+2.15625 - world at pos: 0/0 finished step: 155
+2.15629 executing step: 156
+2.1694 - world at pos: 0/0 finished step: 156
+2.16944 executing step: 157
+2.1795 - world at pos: 0/0 finished step: 157
+2.17957 executing step: 158
+2.18957 - world at pos: 0/0 finished step: 158
+2.18961 executing step: 159
+2.20304 - world at pos: 0/0 finished step: 159
+2.20308 executing step: 160
+2.21305 - world at pos: 0/0 finished step: 160
+2.21309 executing step: 161
+2.22309 - world at pos: 0/0 finished step: 161
+2.22313 executing step: 162
+2.23655 - world at pos: 0/0 finished step: 162
+2.23659 executing step: 163
+2.24671 - world at pos: 0/0 finished step: 163
+2.24675 executing step: 164
+2.2602 - world at pos: 0/0 finished step: 164
+2.26024 executing step: 165
+2.27049 - world at pos: 0/0 finished step: 165
+2.27052 executing step: 166
+2.28057 - world at pos: 0/0 finished step: 166
+2.28061 executing step: 167
+2.29409 - world at pos: 0/0 finished step: 167
+2.29413 executing step: 168
+2.30905 - world at pos: 0/0 finished step: 168
+2.30909 executing step: 169
+2.42524 - world at pos: 0/0 finished step: 169
+2.42528 executing step: 170
+2.43841 - world at pos: 0/0 finished step: 170
+2.43845 executing step: 171
+2.44873 - world at pos: 0/0 finished step: 171
+2.44877 executing step: 172
+2.4622 - world at pos: 0/0 finished step: 172
+2.46224 executing step: 173
+2.47268 - world at pos: 0/0 finished step: 173
+2.47272 executing step: 174
+2.48329 - world at pos: 0/0 finished step: 174
+2.48333 executing step: 175
+2.49678 - world at pos: 0/0 finished step: 175
+2.49682 executing step: 176
+2.50681 - world at pos: 0/0 finished step: 176
+2.50685 executing step: 177
+2.52041 - world at pos: 0/0 finished step: 177
+2.52046 executing step: 178
+2.53037 - world at pos: 0/0 finished step: 178
+2.53041 executing step: 179
+2.54029 - world at pos: 0/0 finished step: 179
+2.54034 executing step: 180
+2.55367 - world at pos: 0/0 finished step: 180
+2.55371 executing step: 181
+2.56429 - world at pos: 0/0 finished step: 181
+2.56433 executing step: 182
+2.57424 - world at pos: 0/0 finished step: 182
+2.57428 executing step: 183
+2.58761 - world at pos: 0/0 finished step: 183
+2.58765 executing step: 184
+2.59814 - world at pos: 0/0 finished step: 184
+2.59818 executing step: 185
+2.61142 - world at pos: 0/0 finished step: 185
+2.61147 executing step: 186
+2.62154 - world at pos: 0/0 finished step: 186
+2.62158 executing step: 187
+2.63162 - world at pos: 0/0 finished step: 187
+2.63166 executing step: 188
+2.64773 - world at pos: 0/0 finished step: 188
+2.64777 executing step: 189
+2.65773 - world at pos: 0/0 finished step: 189
+2.65777 executing step: 190
+2.67064 - world at pos: 0/0 finished step: 190
+2.67069 executing step: 191
+2.68099 - world at pos: 0/0 finished step: 191
+2.68103 executing step: 192
+2.69089 - world at pos: 0/0 finished step: 192
+2.69093 executing step: 193
+2.70454 - world at pos: 0/0 finished step: 193
+2.70458 executing step: 194
+2.71485 - world at pos: 0/0 finished step: 194
+2.71489 executing step: 195
+2.72493 - world at pos: 0/0 finished step: 195
+2.72497 executing step: 196
+2.73844 - world at pos: 0/0 finished step: 196
+2.73847 executing step: 197
+2.74843 - world at pos: 0/0 finished step: 197
+2.74847 executing step: 198
+2.75838 - world at pos: 0/0 finished step: 198
+2.75841 executing step: 199
+2.772 - world at pos: 0/0 finished step: 199
+2.77204 executing step: 200
+2.78194 - world at pos: 0/0 finished step: 200
+2.78198 executing step: 201
+2.7953 - world at pos: 0/0 finished step: 201
+2.79534 executing step: 202
+2.80621 - world at pos: 0/0 finished step: 202
+2.80624 executing step: 203
+2.82439 - world at pos: 0/0 finished step: 203
+2.82444 executing step: 204
+2.8358 - world at pos: 0/0 finished step: 204
+2.83583 executing step: 205
+2.84649 - world at pos: 0/0 finished step: 205
+2.84653 executing step: 206
+2.86117 - world at pos: 0/0 finished step: 206
+2.86121 executing step: 207
+2.87893 - world at pos: 0/0 finished step: 207
+2.8838 executing step: 208
+2.90109 - world at pos: 0/0 finished step: 208
+2.90113 executing step: 209
+2.91823 - world at pos: 0/0 finished step: 209
+2.91827 executing step: 210
+2.93837 - world at pos: 0/0 finished step: 210
+2.93841 executing step: 211
+2.95876 - world at pos: 0/0 finished step: 211
+2.9588 executing step: 212
+2.97864 - world at pos: 0/0 finished step: 212
+2.97868 executing step: 213
+2.99515 - world at pos: 0/0 finished step: 213
+2.99519 executing step: 214
+3.01136 - world at pos: 0/0 finished step: 214
+3.0114 executing step: 215
+3.02787 - world at pos: 0/0 finished step: 215
+3.02792 executing step: 216
+3.04285 - world at pos: 0/0 finished step: 216
+3.04288 executing step: 217
+3.05858 - world at pos: 0/0 finished step: 217
+3.05861 executing step: 218
+3.07492 - world at pos: 0/0 finished step: 218
+3.07496 executing step: 219
+3.09056 - world at pos: 0/0 finished step: 219
+3.0906 executing step: 220
+3.10693 - world at pos: 0/0 finished step: 220
+3.10697 executing step: 221
+3.12964 - world at pos: 0/0 finished step: 221
+3.12969 executing step: 222
+3.14519 - world at pos: 0/0 finished step: 222
+3.14523 executing step: 223
+3.16227 - world at pos: 0/0 finished step: 223
+3.16231 executing step: 224
+3.1791 - world at pos: 0/0 finished step: 224
+3.17914 executing step: 225
+3.19849 - world at pos: 0/0 finished step: 225
+3.19853 executing step: 226
+3.2152 - world at pos: 0/0 finished step: 226
+3.21524 executing step: 227
+3.23504 - world at pos: 0/0 finished step: 227
+3.23508 executing step: 228
+3.25484 - world at pos: 0/0 finished step: 228
+3.25488 executing step: 229
+3.26721 - world at pos: 0/0 finished step: 229
+3.26725 executing step: 230
+3.28542 - world at pos: 0/0 finished step: 230
+3.28547 executing step: 231
+3.30324 - world at pos: 0/0 finished step: 231
+3.30328 executing step: 232
+3.32296 - world at pos: 0/0 finished step: 232
+3.323 executing step: 233
+3.3384 - world at pos: 0/0 finished step: 233
+3.33844 executing step: 234
+3.35849 - world at pos: 0/0 finished step: 234
+3.35853 executing step: 235
+3.37565 - world at pos: 0/0 finished step: 235
+3.3757 executing step: 236
+3.39013 - world at pos: 0/0 finished step: 236
+3.39016 executing step: 237
+3.40558 - world at pos: 0/0 finished step: 237
+3.40563 executing step: 238
+3.42122 - world at pos: 0/0 finished step: 238
+3.42126 executing step: 239
+3.43437 - world at pos: 0/0 finished step: 239
+3.43442 executing step: 240
+3.44981 - world at pos: 0/0 finished step: 240
+3.44985 executing step: 241
+3.47041 - world at pos: 0/0 finished step: 241
+3.47045 executing step: 242
+3.48676 - world at pos: 0/0 finished step: 242
+3.4868 executing step: 243
+3.50303 - world at pos: 0/0 finished step: 243
+3.50307 executing step: 244
+3.51865 - world at pos: 0/0 finished step: 244
+3.51869 executing step: 245
+3.53436 - world at pos: 0/0 finished step: 245
+3.5344 executing step: 246
+3.55168 - world at pos: 0/0 finished step: 246
+3.55172 executing step: 247
+3.57154 - world at pos: 0/0 finished step: 247
+3.57158 executing step: 248
+3.59064 - world at pos: 0/0 finished step: 248
+3.59069 executing step: 249
+3.60718 - world at pos: 0/0 finished step: 249
+3.60722 executing step: 250
+3.62353 - world at pos: 0/0 finished step: 250
+3.62357 executing step: 251
+3.63896 - world at pos: 0/0 finished step: 251
+3.639 executing step: 252
+3.6545 - world at pos: 0/0 finished step: 252
+3.65454 executing step: 253
+3.67047 - world at pos: 0/0 finished step: 253
+3.67051 executing step: 254
+3.68995 - world at pos: 0/0 finished step: 254
+3.68999 executing step: 255
+3.706 - world at pos: 0/0 finished step: 255
+3.70604 executing step: 256
+3.72515 - world at pos: 0/0 finished step: 256
+3.72519 executing step: 257
+3.74296 - world at pos: 0/0 finished step: 257
+3.74301 executing step: 258
+3.75287 - world at pos: 0/0 finished step: 258
+3.75291 executing step: 259
+3.77395 - world at pos: 0/0 finished step: 259
+3.77399 executing step: 260
+3.79055 - world at pos: 0/0 finished step: 260
+3.79059 executing step: 261
+3.8099 - world at pos: 0/0 finished step: 261
+3.80995 executing step: 262
+4.63146 - world at pos: 0/0 finished step: 262
+4.69987 executing step: 263
+4.71067 - world at pos: 0/0 finished step: 263
+4.71071 executing step: 264
+4.72055 - world at pos: 0/0 finished step: 264
+4.72059 executing step: 265
+4.73292 - world at pos: 0/0 finished step: 265
+4.73296 executing step: 266
+4.74613 - world at pos: 0/0 finished step: 266
+4.74617 executing step: 267
+4.75585 - world at pos: 0/0 finished step: 267
+4.75589 executing step: 268
+4.76546 - world at pos: 0/0 finished step: 268
+4.7655 executing step: 269
+4.7787 - world at pos: 0/0 finished step: 269
+4.77875 executing step: 270
+4.78883 - world at pos: 0/0 finished step: 270
+4.78888 executing step: 271
+4.79891 - world at pos: 0/0 finished step: 271
+4.79895 executing step: 272
+4.81267 - world at pos: 0/0 finished step: 272
+4.81271 executing step: 273
+4.82286 - world at pos: 0/0 finished step: 273
+4.8229 executing step: 274
+4.83681 - world at pos: 0/0 finished step: 274
+4.83686 executing step: 275
+4.84714 - world at pos: 0/0 finished step: 275
+4.84718 executing step: 276
+4.85726 - world at pos: 0/0 finished step: 276
+4.8573 executing step: 277
+4.87044 - world at pos: 0/0 finished step: 277
+4.87048 executing step: 278
+4.88059 - world at pos: 0/0 finished step: 278
+4.88063 executing step: 279
+4.89051 - world at pos: 0/0 finished step: 279
+4.89055 executing step: 280
+4.90389 - world at pos: 0/0 finished step: 280
+4.90393 executing step: 281
+4.91388 - world at pos: 0/0 finished step: 281
+4.91392 executing step: 282
+4.92725 - world at pos: 0/0 finished step: 282
+4.9273 executing step: 283
+4.93753 - world at pos: 0/0 finished step: 283
+4.93757 executing step: 284
+4.94758 - world at pos: 0/0 finished step: 284
+4.94762 executing step: 285
+4.96328 - world at pos: 0/0 finished step: 285
+4.96332 executing step: 286
+4.97351 - world at pos: 0/0 finished step: 286
+4.97355 executing step: 287
+6.78364 - world at pos: 0/0 finished step: 287
+6.78368 executing step: 288
+6.79739 - world at pos: 0/0 finished step: 288
+6.79744 executing step: 289
+6.80744 - world at pos: 0/0 finished step: 289
+6.80749 executing step: 290
+6.82287 - world at pos: 0/0 finished step: 290
+6.82291 executing step: 291
+6.83262 - world at pos: 0/0 finished step: 291
+6.83266 executing step: 292
+6.84254 - world at pos: 0/0 finished step: 292
+6.84258 executing step: 293
+6.85594 - world at pos: 0/0 finished step: 293
+6.85598 executing step: 294
+6.86596 - world at pos: 0/0 finished step: 294
+6.866 executing step: 295
+6.88088 - world at pos: 0/0 finished step: 295
+6.88092 executing step: 296
+6.89062 - world at pos: 0/0 finished step: 296
+6.89066 executing step: 297
+6.90057 - world at pos: 0/0 finished step: 297
+6.90061 executing step: 298
+6.91375 - world at pos: 0/0 finished step: 298
+6.91379 executing step: 299
+6.92391 - world at pos: 0/0 finished step: 299
+6.92395 executing step: 300
+6.93382 - world at pos: 0/0 finished step: 300
+6.93385 executing step: 301
+6.94703 - world at pos: 0/0 finished step: 301
+6.94708 executing step: 302
+6.95689 - world at pos: 0/0 finished step: 302
+6.95693 executing step: 303
+6.97009 - world at pos: 0/0 finished step: 303
+6.97013 executing step: 304
+6.9799 - world at pos: 0/0 finished step: 304
+6.97994 executing step: 305
+6.98972 - world at pos: 0/0 finished step: 305
+6.98976 executing step: 306
+7.00288 - world at pos: 0/0 finished step: 306
+7.00292 executing step: 307
+7.01278 - world at pos: 0/0 finished step: 307
+7.01282 executing step: 308
+7.02255 - world at pos: 0/0 finished step: 308
+7.02259 executing step: 309
+7.0356 - world at pos: 0/0 finished step: 309
+7.03564 executing step: 310
+7.0454 - world at pos: 0/0 finished step: 310
+7.04544 executing step: 311
+7.05511 - world at pos: 0/0 finished step: 311
+7.05515 executing step: 312
+7.06823 - world at pos: 0/0 finished step: 312
+7.06827 executing step: 313
+7.0779 - world at pos: 0/0 finished step: 313
+7.07794 executing step: 314
+7.09077 - world at pos: 0/0 finished step: 314
+7.09082 executing step: 315
+7.10092 - world at pos: 0/0 finished step: 315
+7.10096 executing step: 316
+7.11109 - world at pos: 0/0 finished step: 316
+7.11113 executing step: 317
+7.12441 - world at pos: 0/0 finished step: 317
+7.12445 executing step: 318
+7.13424 - world at pos: 0/0 finished step: 318
+7.13427 executing step: 319
+7.14425 - world at pos: 0/0 finished step: 319
+7.14428 executing step: 320
+7.15732 - world at pos: 0/0 finished step: 320
+7.15736 executing step: 321
+7.16711 - world at pos: 0/0 finished step: 321
+7.16715 executing step: 322
+7.177 - world at pos: 0/0 finished step: 322
+7.17704 executing step: 323
+7.19033 - world at pos: 0/0 finished step: 323
+7.19037 executing step: 324
+7.20014 - world at pos: 0/0 finished step: 324
+7.20017 executing step: 325
+7.21318 - world at pos: 0/0 finished step: 325
+7.21325 executing step: 326
+7.22326 - world at pos: 0/0 finished step: 326
+7.2233 executing step: 327
+7.23322 - world at pos: 0/0 finished step: 327
+7.23325 executing step: 328
+7.24641 - world at pos: 0/0 finished step: 328
+7.24645 executing step: 329
+7.2604 - world at pos: 0/0 finished step: 329
+7.26044 executing step: 330
+7.27327 - world at pos: 0/0 finished step: 330
+7.27332 executing step: 331
+7.28338 - world at pos: 0/0 finished step: 331
+7.28342 executing step: 332
+7.29323 - world at pos: 0/0 finished step: 332
+7.29327 executing step: 333
+7.30673 - world at pos: 0/0 finished step: 333
+7.30677 executing step: 334
+7.31671 - world at pos: 0/0 finished step: 334
+7.31675 executing step: 335
+7.32673 - world at pos: 0/0 finished step: 335
+7.32677 executing step: 336
+7.33996 - world at pos: 0/0 finished step: 336
+7.34 executing step: 337
+7.34986 - world at pos: 0/0 finished step: 337
+7.3499 executing step: 338
+7.35986 - world at pos: 0/0 finished step: 338
+7.35989 executing step: 339
+7.37347 - world at pos: 0/0 finished step: 339
+7.37351 executing step: 340
+7.38356 - world at pos: 0/0 finished step: 340
+7.3836 executing step: 341
+7.39658 - world at pos: 0/0 finished step: 341
+7.39663 executing step: 342
+7.4066 - world at pos: 0/0 finished step: 342
+7.40664 executing step: 343
+7.4167 - world at pos: 0/0 finished step: 343
+7.41674 executing step: 344
+7.44658 - world at pos: 0/0 finished step: 344
+7.44662 executing step: 345
+7.48313 - world at pos: 0/0 finished step: 345
+7.48318 executing step: 346
+7.49694 - world at pos: 0/0 finished step: 346
+7.49698 executing step: 347
+7.50692 - world at pos: 0/0 finished step: 347
+7.50696 executing step: 348
+7.52025 - world at pos: 0/0 finished step: 348
+7.5203 executing step: 349
+7.5302 - world at pos: 0/0 finished step: 349
+7.53024 executing step: 350
+7.5401 - world at pos: 0/0 finished step: 350
+7.54013 executing step: 351
+7.55328 - world at pos: 0/0 finished step: 351
+7.55332 executing step: 352
+7.56308 - world at pos: 0/0 finished step: 352
+7.56312 executing step: 353
+7.57319 - world at pos: 0/0 finished step: 353
+7.57322 executing step: 354
+7.58633 - world at pos: 0/0 finished step: 354
+7.58654 executing step: 355
+7.59674 - world at pos: 0/0 finished step: 355
+7.59678 executing step: 356
+7.61014 - world at pos: 0/0 finished step: 356
+7.61019 executing step: 357
+7.62057 - world at pos: 0/0 finished step: 357
+7.62061 executing step: 358
+7.63074 - world at pos: 0/0 finished step: 358
+7.63078 executing step: 359
+7.64447 - world at pos: 0/0 finished step: 359
+7.64451 executing step: 360
+7.65486 - world at pos: 0/0 finished step: 360
+7.6549 executing step: 361
+7.6651 - world at pos: 0/0 finished step: 361
+7.66514 executing step: 362
+7.67882 - world at pos: 0/0 finished step: 362
+7.67886 executing step: 363
+7.68902 - world at pos: 0/0 finished step: 363
+7.68906 executing step: 364
+7.70253 - world at pos: 0/0 finished step: 364
+7.70257 executing step: 365
+7.71271 - world at pos: 0/0 finished step: 365
+7.71275 executing step: 366
+7.72296 - world at pos: 0/0 finished step: 366
+7.723 executing step: 367
+7.73629 - world at pos: 0/0 finished step: 367
+7.73633 executing step: 368
+7.74991 - world at pos: 0/0 finished step: 368
+7.74995 executing step: 369
+7.7633 - world at pos: 0/0 finished step: 369
+7.76335 executing step: 370
+7.77348 - world at pos: 0/0 finished step: 370
+7.77352 executing step: 371
+7.78381 - world at pos: 0/0 finished step: 371
+7.78385 executing step: 372
+7.79735 - world at pos: 0/0 finished step: 372
+7.79739 executing step: 373
+7.8074 - world at pos: 0/0 finished step: 373
+7.80744 executing step: 374
+7.81768 - world at pos: 0/0 finished step: 374
+7.81772 executing step: 375
+7.83122 - world at pos: 0/0 finished step: 375
+7.83126 executing step: 376
+7.84133 - world at pos: 0/0 finished step: 376
+7.84137 executing step: 377
+7.85512 - world at pos: 0/0 finished step: 377
+7.85517 executing step: 378
+7.86547 - world at pos: 0/0 finished step: 378
+7.86551 executing step: 379
+7.87585 - world at pos: 0/0 finished step: 379
+7.87589 executing step: 380
+7.89114 - world at pos: 0/0 finished step: 380
+7.89118 executing step: 381
+7.90204 - world at pos: 0/0 finished step: 381
+7.90207 executing step: 382
+7.91614 - world at pos: 0/0 finished step: 382
+7.91618 executing step: 383
+7.92699 - world at pos: 0/0 finished step: 383
+7.92703 executing step: 384
+7.93764 - world at pos: 0/0 finished step: 384
+7.93768 executing step: 385
+7.95155 - world at pos: 0/0 finished step: 385
+7.95159 executing step: 386
+7.96194 - world at pos: 0/0 finished step: 386
+7.96198 executing step: 387
+7.97605 - world at pos: 0/0 finished step: 387
+7.97609 executing step: 388
+7.98655 - world at pos: 0/0 finished step: 388
+7.98659 executing step: 389
+7.99664 - world at pos: 0/0 finished step: 389
+7.99668 executing step: 390
+8.01044 - world at pos: 0/0 finished step: 390
+8.01048 executing step: 391
+8.02094 - world at pos: 0/0 finished step: 391
+8.02098 executing step: 392
+8.0383 - world at pos: 0/0 finished step: 392
+8.03834 executing step: 393
+8.04845 - world at pos: 0/0 finished step: 393
+8.04849 executing step: 394
+8.05862 - world at pos: 0/0 finished step: 394
+8.05866 executing step: 395
+8.07232 - world at pos: 0/0 finished step: 395
+8.07236 executing step: 396
+8.0824 - world at pos: 0/0 finished step: 396
+8.08244 executing step: 397
+8.09558 - world at pos: 0/0 finished step: 397
+8.09563 executing step: 398
+8.10589 - world at pos: 0/0 finished step: 398
+8.10593 executing step: 399
+8.116 - world at pos: 0/0 finished step: 399
+8.11604 executing step: 400
+8.12972 - world at pos: 0/0 finished step: 400
+8.12976 executing step: 401
+8.13994 - world at pos: 0/0 finished step: 401
+8.13998 executing step: 402
+8.14996 - world at pos: 0/0 finished step: 402
+8.15 executing step: 403
+8.16317 - world at pos: 0/0 finished step: 403
+8.16321 executing step: 404
+8.17358 - world at pos: 0/0 finished step: 404
+8.17362 executing step: 405
+8.1837 - world at pos: 0/0 finished step: 405
+8.18374 executing step: 406
+8.19716 - world at pos: 0/0 finished step: 406
+8.1972 executing step: 407
+8.20734 - world at pos: 0/0 finished step: 407
+8.20737 executing step: 408
+8.22105 - world at pos: 0/0 finished step: 408
+8.22109 executing step: 409
+8.2312 - world at pos: 0/0 finished step: 409
+8.23124 executing step: 410
+8.24129 - world at pos: 0/0 finished step: 410
+8.24133 executing step: 411
+8.25495 - world at pos: 0/0 finished step: 411
+8.25499 executing step: 412
+8.26495 - world at pos: 0/0 finished step: 412
+8.26499 executing step: 413
+8.28911 - world at pos: 0/0 finished step: 413
+8.28915 executing step: 414
+8.29928 - world at pos: 0/0 finished step: 414
+8.29932 executing step: 415
+8.31533 - world at pos: 0/0 finished step: 415
+8.31537 executing step: 416
+8.32846 - world at pos: 0/0 finished step: 416
+8.32855 executing step: 417
+8.34613 - world at pos: 0/0 finished step: 417
+8.34617 executing step: 418
+8.36104 - world at pos: 0/0 finished step: 418
+8.36108 executing step: 419
+8.37666 - world at pos: 0/0 finished step: 419
+8.3767 executing step: 420
+8.40371 - world at pos: 0/0 finished step: 420
+8.40376 executing step: 421
+8.41719 - world at pos: 0/0 finished step: 421
+8.41723 executing step: 422
+8.43573 - world at pos: 0/0 finished step: 422
+8.43577 executing step: 423
+8.4485 - world at pos: 0/0 finished step: 423
+8.44854 executing step: 424
+8.46824 - world at pos: 0/0 finished step: 424
+8.46828 executing step: 425
+8.48014 - world at pos: 0/0 finished step: 425
+8.48018 executing step: 426
+8.49078 - world at pos: 0/0 finished step: 426
+8.49083 executing step: 427
+8.50695 - world at pos: 0/0 finished step: 427
+8.507 executing step: 428
+8.53889 - world at pos: 0/0 finished step: 428
+8.53893 executing step: 429
+8.55734 - world at pos: 0/0 finished step: 429
+8.55739 executing step: 430
+8.56879 - world at pos: 0/0 finished step: 430
+8.56883 executing step: 431
+8.59077 - world at pos: 0/0 finished step: 431
+8.59081 executing step: 432
+8.60084 - world at pos: 0/0 finished step: 432
+8.60088 executing step: 433
+8.61999 - world at pos: 0/0 finished step: 433
+8.62003 executing step: 434
+8.62994 - world at pos: 0/0 finished step: 434
+8.62998 executing step: 435
+8.64026 - world at pos: 0/0 finished step: 435
+8.6403 executing step: 436
+8.65362 - world at pos: 0/0 finished step: 436
+8.65366 executing step: 437
+8.6637 - world at pos: 0/0 finished step: 437
+8.66374 executing step: 438
+8.67378 - world at pos: 0/0 finished step: 438
+8.67382 executing step: 439
+8.68728 - world at pos: 0/0 finished step: 439
+8.68732 executing step: 440
+8.69735 - world at pos: 0/0 finished step: 440
+8.69739 executing step: 441
+8.71038 - world at pos: 0/0 finished step: 441
+8.71044 executing step: 442
+8.7208 - world at pos: 0/0 finished step: 442
+8.72084 executing step: 443
+8.73074 - world at pos: 0/0 finished step: 443
+8.73078 executing step: 444
+8.74407 - world at pos: 0/0 finished step: 444
+8.74411 executing step: 445
+8.75418 - world at pos: 0/0 finished step: 445
+8.75422 executing step: 446
+8.76414 - world at pos: 0/0 finished step: 446
+8.76419 executing step: 447
+8.77769 - world at pos: 0/0 finished step: 447
+8.77773 executing step: 448
+8.78787 - world at pos: 0/0 finished step: 448
+8.78792 executing step: 449
+8.8012 - world at pos: 0/0 finished step: 449
+8.80125 executing step: 450
+8.81146 - world at pos: 0/0 finished step: 450
+8.8115 executing step: 451
+8.82454 - world at pos: 0/0 finished step: 451
+8.82458 executing step: 452
+8.83802 - world at pos: 0/0 finished step: 452
+8.83806 executing step: 453
+8.84829 - world at pos: 0/0 finished step: 453
+8.84833 executing step: 454
+8.85821 - world at pos: 0/0 finished step: 454
+8.85825 executing step: 455
+8.87146 - world at pos: 0/0 finished step: 455
+8.8715 executing step: 456
+8.88132 - world at pos: 0/0 finished step: 456
+8.88136 executing step: 457
+8.89488 - world at pos: 0/0 finished step: 457
+8.89493 executing step: 458
+8.90477 - world at pos: 0/0 finished step: 458
+8.90481 executing step: 459
+8.91492 - world at pos: 0/0 finished step: 459
+8.91496 executing step: 460
+8.92834 - world at pos: 0/0 finished step: 460
+8.92838 executing step: 461
+8.93829 - world at pos: 0/0 finished step: 461
+8.93833 executing step: 462
+8.94864 - world at pos: 0/0 finished step: 462
+8.94868 executing step: 463
+8.96194 - world at pos: 0/0 finished step: 463
+8.96199 executing step: 464
+8.97201 - world at pos: 0/0 finished step: 464
+8.97205 executing step: 465
+8.98506 - world at pos: 0/0 finished step: 465
+8.98511 executing step: 466
+8.99516 - world at pos: 0/0 finished step: 466
+8.9952 executing step: 467
+9.00503 - world at pos: 0/0 finished step: 467
+9.00507 executing step: 468
+9.01859 - world at pos: 0/0 finished step: 468
+9.01863 executing step: 469
+9.02848 - world at pos: 0/0 finished step: 469
+9.02852 executing step: 470
+9.03841 - world at pos: 0/0 finished step: 470
+9.03845 executing step: 471
+9.05181 - world at pos: 0/0 finished step: 471
+9.05185 executing step: 472
+9.06197 - world at pos: 0/0 finished step: 472
+9.06201 executing step: 473
+9.0722 - world at pos: 0/0 finished step: 473
+9.07224 executing step: 474
+9.08696 - world at pos: 0/0 finished step: 474
+9.087 executing step: 475
+9.10233 - world at pos: 0/0 finished step: 475
+9.10237 executing step: 476
+9.11864 - world at pos: 0/0 finished step: 476
+9.11868 executing step: 477
+9.13066 - world at pos: 0/0 finished step: 477
+9.1307 executing step: 478
+9.14419 - world at pos: 0/0 finished step: 478
+9.14424 executing step: 479
+9.15846 - world at pos: 0/0 finished step: 479
+9.1585 executing step: 480
+9.17962 - world at pos: 0/0 finished step: 480
+9.17966 executing step: 481
+9.19847 - world at pos: 0/0 finished step: 481
+9.19851 executing step: 482
+9.2151 - world at pos: 0/0 finished step: 482
+9.21514 executing step: 483
+9.23092 - world at pos: 0/0 finished step: 483
+9.23097 executing step: 484
+9.24518 - world at pos: 0/0 finished step: 484
+9.24522 executing step: 485
+9.2551 - world at pos: 0/0 finished step: 485
+9.25514 executing step: 486
+9.27481 - world at pos: 0/0 finished step: 486
+9.27485 executing step: 487
+9.29374 - world at pos: 0/0 finished step: 487
+9.29378 executing step: 488
+9.31169 - world at pos: 0/0 finished step: 488
+9.31173 executing step: 489
+9.33121 - world at pos: 0/0 finished step: 489
+9.33127 executing step: 490
+9.34684 - world at pos: 0/0 finished step: 490
+9.34688 executing step: 491
+9.36607 - world at pos: 0/0 finished step: 491
+9.36611 executing step: 492
+9.38923 - world at pos: 0/0 finished step: 492
+9.38928 executing step: 493
+9.39954 - world at pos: 0/0 finished step: 493
+9.39959 executing step: 494
+9.418 - world at pos: 0/0 finished step: 494
+9.41804 executing step: 495
+9.43444 - world at pos: 0/0 finished step: 495
+9.43449 executing step: 496
+9.45561 - world at pos: 0/0 finished step: 496
+9.45565 executing step: 497
+9.47438 - world at pos: 0/0 finished step: 497
+9.47442 executing step: 498
+9.49095 - world at pos: 0/0 finished step: 498
+9.49099 executing step: 499
+9.5064 - world at pos: 0/0 finished step: 499
+9.51968 closing files
+15.6383 simulation finished
